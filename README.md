@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/peterjkingston87/Create%20your%20first%20pipeline/_apis/build/status/peterjkingston.pipelines-java?branchName=master)](https://dev.azure.com/peterjkingston87/Create%20your%20first%20pipeline/_build/latest?definitionId=2&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
